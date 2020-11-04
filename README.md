@@ -1,5 +1,7 @@
 ## Description
-This repository contains scripts to train (fine-tune) individual (local and remote), Siminet and EarlyDiscard models on PKU-MMD dataset. This code is cloned from the original repository of [3D-ResNets](https://github.com/kenshohara/3D-ResNets-PyTorch). Please refer to the original repository for customization options. We thank authors of [3D-ResNets](https://github.com/kenshohara/3D-ResNets-PyTorch) for making their code public.
+This repository contains scripts to train (fine-tune) individual (edge and cloud), Siminet and EarlyDiscard models on PKU-MMD dataset. This code is cloned and modified from the original repository of [3D-ResNets](https://github.com/kenshohara/3D-ResNets-PyTorch). Please refer to the original repository for more customization options. 
+
+We thank authors of [3D-ResNets](https://github.com/kenshohara/3D-ResNets-PyTorch) for making their codebase public.
 
 ## Requirements
 The code is tested with the following software packages.
